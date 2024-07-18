@@ -1,4 +1,4 @@
-# Laravel Project
+# Book Review Project
 
 This is a sample Laravel project created for learning purposes.
 
