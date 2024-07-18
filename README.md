@@ -1,6 +1,6 @@
 # Book Review Project
 
-This is a sample Laravel project created for learning purposes.
+The Book Review Portal, built with Laravel, is a feature-rich web application tailored for book enthusiasts to explore and review a curated library of books. Administrators have exclusive access to manage books using CRUD operations, leveraging local query scopes for efficient data retrieval and Eloquent ORM relationships for seamless data management. Users can submit detailed reviews with ratings and comments, which are aggregated and visualized using star ratings for clarity. The portal features a robust search functionality, enabling users to filter books based name, enhancing discoverability and user interaction within a cohesive and user-friendly interface.
 
 ## Installation
 
